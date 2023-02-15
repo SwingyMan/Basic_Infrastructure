@@ -7,3 +7,6 @@ Basic Terraform IaC that creates:
 
 You can create it by using:
 ```terraform init && terraform apply```
+
+If you want to destroy your infrastructure just use:
+```terraform destroy```
